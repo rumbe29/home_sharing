@@ -3,5 +3,5 @@
 **/migrations
 /static
 /media
-/venv
+/venv2
 db.sqlite3
